@@ -1,5 +1,5 @@
-FROM quay.io/lyfe00011/md:beta
-RUN git clone https://github.com/lyfe00011/levanter.git /root/LyFE/
-WORKDIR /root/LyFE/
+FROM quay.io/jayden-official/md:beta
+RUN git clone https://github.com/jayden-official/maadiva.git /root/JaY/
+WORKDIR /root/JaY/
 RUN yarn install
 CMD ["npm", "start"]
