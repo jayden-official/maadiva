@@ -93,7 +93,7 @@ bot.addCommand(
       }
     })
     const [date, time] = getDate()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ MAADIVA ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
 ┃❃│ User : ${message.pushName}
