@@ -1,6 +1,6 @@
-# WhatsApp MD User Bot
+# WhatsApp MD User Bot 
 
-A simple WhatsApp User bot.
+A simple WhatsApp User bot created by jaytech.
 
 ## Setup
 
@@ -15,7 +15,7 @@ A simple WhatsApp User bot.
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
 
 3. **Fork Repository:**
-   - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
+   - [FORK](https://github.com/jayden-official/maadiva/fork) this repository.
 
 4. **Deploy:**
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
@@ -26,13 +26,13 @@ A simple WhatsApp User bot.
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
 
 2. **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [DATABASE_URL](https://github.com/jayden-official/maadiva/wiki/DATABASE_URL). You'll need this while deploying.
    - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
 
 3. **Deploy:**
    - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
-   - Enter [Environment Variables](https://levanter-plugins.vercel.app/env). [Read More](https://levanter-plugins.vercel.app/env).
+   - Enter [Environment Variables](https://maadiva-plugins.vercel.app/env). [Read More](https://maadiva-plugins.vercel.app/env).
    - Enter a name and click "Create Service."
 
 ### 3. Deploy on VPS or PC (Example here as in Ubuntu)
@@ -71,7 +71,7 @@ A simple WhatsApp User bot.
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
+   git clone https://github.com/jayden-official/maadiva botName
    cd botName
    yarn install
    ```
@@ -80,7 +80,7 @@ A simple WhatsApp User bot.
    ```sh
    echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
    PREFIX = .
-   STICKER_PACKNAME = LyFE
+   STICKER_PACKNAME = jAy🥵🥵
    ALWAYS_ONLINE = false
    RMBG_KEY = null
    LANGUAG = en
@@ -89,7 +89,7 @@ A simple WhatsApp User bot.
    BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
    MAX_UPLOAD = 200
    REJECT_CALL = false
-   SUDO = 989876543210
+   SUDO = 254794597254
    TZ = Asia/Kolkata
    VPS = true
    AUTO_STATUS_VIEW = true
@@ -99,7 +99,7 @@ A simple WhatsApp User bot.
    PERSONAL_MESSAGE = null" > config.env
    ```
 
-   - [Read More](https://levanter-plugins.vercel.app/env)
+   - [Read More](https://maadiva-plugins.vercel.app/env)
 
 7. **Edit `config.env` Using Nano (if needed):**
    - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
